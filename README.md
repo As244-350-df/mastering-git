@@ -1,1 +1,3 @@
-hello git i am new to you
+hello git i am new to yo
+
+hello i cause a merge conflict
