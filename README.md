@@ -4,3 +4,4 @@ hellooccj
 hello git i am new to yo
 
 hello i cause a merge conflict
+hello added a new line
