@@ -3,3 +3,6 @@ console.log("Hello, git!");
 //writing very important code
 //code
 //code
+//fixing bug 
+//bug 
+//debug
